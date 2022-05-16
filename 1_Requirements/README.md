@@ -31,6 +31,10 @@
  ## WHO DISCOVERED WIPER SYSTEM
   Mark Anderson invented on 1902.
   
+  # SWOT Analysis
+  
+  ![SWOT ANALYSIS](https://github.com/Avishek2579/M3_Wiper_Control_System/blob/main/1_Requirements/SWOT%20Analysis.png)
+  
   # High Level Requirements #
 ID	 |  Description	                                                |     Status
 -----|--------------------------------------------------------------|-------------------------
